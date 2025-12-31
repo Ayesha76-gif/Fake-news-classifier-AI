@@ -1,4 +1,7 @@
-text,label
-This is fake news,0
-This is real news,1
-
+title,text,label
+Fake news 1,"Breaking: Celebrity scandal made up for clicks",0
+Real news 1,"The government announced a new economic plan",1
+Fake news 2,"Aliens seen in sky near city region",0
+Real news 2,"Scientists reported progress on climate research",1
+Real news 3,"Stock markets closed higher after positive jobs report",1
+Fake news 3,"Magic cure for disease goes viral on social media",0
